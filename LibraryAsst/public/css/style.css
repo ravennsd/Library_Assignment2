@@ -17,8 +17,6 @@ li a {
     color: thistle;
     font-weight: 400;
 }
-
-
 .img1{
     
     padding-left: 0%;
@@ -65,21 +63,11 @@ body{
     background-color: white;
     align-content: center;
     align-items: center;
-    display: 
     /* display: inline-block; */
 }
 .vertical-center{
     display: flex;
-    /* align-items: center;
-    vertical-align: middle;
-    min-height: 100%;
-    justify-content: center;  */
 }
-/* .vertical-center:before{
-    display: inline-block;
-    vertical-align: middle;
-    height:100%;
-} */
 .navbar{
     height:5rem;
 }

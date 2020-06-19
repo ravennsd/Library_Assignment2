@@ -7,19 +7,19 @@ function router(nav) {
         title: "War and Peace",
         author: "Lev Nicolayevich",
         genre:'Historical Fiction',
-        img: "/images/count-lev-nikolayevich.jpg"
+        img: "count-lev-nikolayevich.jpg"
     },
     { 
         title: "Les Miserables",
         author: "Victor Hugh",
         genre:'Fiction',
-        img: "/images/victor-hugo-9346557-1-402.jpg"
+        img: "victor-hugo-9346557-1-402.jpg"
     },
     { 
         title: "Harry Potter",
         author: "J.K Rowling",
         genre:'Fantasy',
-        img: "/images/Shot_D_021_V2L-copy-1.jpg"
+        img: "Shot_D_021_V2L-copy-1.jpg"
     }
     ]
     
